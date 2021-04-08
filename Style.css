@@ -1,0 +1,62 @@
+body {
+  background-color: #d90467;
+}
+.header {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  width: 50%;
+  height: 40px;
+  background: #89d1d9;
+  margin: 0 auto;
+}
+
+.text {
+  color: #d90467;
+  font-family: 'Courier New', Courier, monospace;
+}
+.text2 {
+  text-align: center;
+  color: #f2ae72;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.textbox {
+  height: 100px;
+  width: 300px;
+  background-color: #c3d9a3;
+}
+
+.input {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  background-color: #c3d9a3;
+  height: 50px;
+  float: right;
+}
+
+.output {
+  height: 440px;
+  width: 500px;
+  background-color: #c3d9a3;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.styling {
+  padding-top: 20px;
+  padding-left: 20px;
+  color: #d90467;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+
+.button2 {
+  float: left;
+  height: 50px;
+  background-color: #c3d9a3;
+}
